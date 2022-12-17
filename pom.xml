@@ -7,7 +7,7 @@
   <groupId>com.UDAY</groupId>
   <artifactId>webappUDAY</artifactId>
   <version>1.0-SNAPSHOT</version>
-
+  <package>war</package>
   <name>webappUDAY</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
